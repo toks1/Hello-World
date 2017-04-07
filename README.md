@@ -1,2 +1,2 @@
 # hello-world
-My first repository on GitHub Enterprise.
+My first repository on GitHub.
